@@ -1,0 +1,8 @@
+domain_code,domain_name,priority_level,main_gap
+D1,Biological interaction,High,Biology to programme translation
+D2,Spatial co-risk,Critical,Integrated co-risk and service-readiness mapping
+D3,Clinical convergence,Critical,Genotype-informed severe anaemia attribution
+D4,Service-mediated visibility,High,Routine SCD data linkage and hidden burden
+D5,Structural vulnerability,High,Facility readiness and access to essential SCD care
+D6,Programme response,Critical,Complete screening-to-care cascade measurement
+D7,Syndemic theory,Moderate-high,Empirical syndemic modelling and mechanism specification

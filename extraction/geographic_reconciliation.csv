@@ -1,0 +1,69 @@
+study_id,country_or_region_reported,primary_geographic_category,domain_codes
+S001,East Africa,East Africa,D1
+S002,East Africa and broader African relevance,East Africa,"D1, D2"
+S003,Kenya,East Africa,D1
+S004,Kenya,East Africa,D1
+S005,Kenya,East Africa,D1
+S006,"Global, with SSA relevance",Global/foundational SSA-relevant,D1
+S007,"Global, with SSA relevance",Global/foundational SSA-relevant,D1
+S008,"Global, strong Africa relevance",Global/foundational SSA-relevant,"D1, D2"
+S009,"Global, strong SSA relevance",Global/foundational SSA-relevant,D2
+S010,"Global, strong SSA relevance",Global/foundational SSA-relevant,"D2, D5"
+S011,Burkina Faso,West Africa,D1
+S012,Ghana,West Africa,D1
+S013,Ghana,West Africa,D1
+S014,Kenya,East Africa,D1
+S015,"Africa, multicountry relevance",Multicountry SSA/Africa-wide,D1
+S016,"Global, African subgroup relevance",Global/foundational SSA-relevant,D1
+S017,"Mali, Kenya",Multicountry SSA/Africa-wide,D1
+S018,"Gambia, Kenya, Malawi",Multicountry SSA/Africa-wide,D1
+S019,Kenya,East Africa,D1
+S020,Multicountry Africa and Asia,Multicountry SSA/Africa-wide,D1
+S021,"Global, strong Africa relevance",Global/foundational SSA-relevant,D1
+S022,Endemic Africa,Multicountry SSA/Africa-wide,D2
+S023,"Global, strong Africa relevance",Global/foundational SSA-relevant,D2
+S024,"Global, strong SSA relevance",Global/foundational SSA-relevant,D2
+S025,Africa relevance,Multicountry SSA/Africa-wide,"D2, D4"
+S026,Kenya,East Africa,"D2, D4"
+S027,Uganda,East Africa,"D2, D4, D6"
+S028,Africa,Multicountry SSA/Africa-wide,"D4, D5"
+S029,"Global, strong SSA relevance",Global/foundational SSA-relevant,"D4, D5"
+S030,Global,Global/foundational SSA-relevant,"D3, D5"
+S031,"Global, malaria-endemic relevance",Global/foundational SSA-relevant,D3
+S032,Kenya,East Africa,D3
+S033,"Uganda, Malawi",East Africa,"D3, D5"
+S034,"Uganda, Malawi",East Africa,"D3, D5"
+S035,Uganda,East Africa,"D3, D4"
+S036,Nigeria,West Africa,D3
+S037,Cameroon,Central Africa,D3
+S038,Cameroon,Central Africa,D3
+S039,Tanzania,East Africa,D5
+S040,Tanzania,East Africa,"D3, D5"
+S041,"United States, foundational care evidence",Global/foundational SSA-relevant,D5
+S042,"United States, comparative benchmark",Global/foundational SSA-relevant,D5
+S043,Global,Global/foundational SSA-relevant,"D5, D6"
+S044,"Angola, Democratic Republic of Congo, Kenya, Uganda",Multicountry SSA/Africa-wide,"D5, D6"
+S045,Uganda,East Africa,"D5, D6"
+S046,Uganda,East Africa,"D5, D6"
+S047,Democratic Republic of Congo,Central Africa,"D4, D6"
+S048,Benin,West Africa,"D4, D5, D6"
+S049,Nigeria,West Africa,"D4, D6"
+S050,Nigeria,West Africa,D6
+S051,Ghana,West Africa,"D4, D6"
+S052,Africa,Multicountry SSA/Africa-wide,"D5, D6"
+S053,Africa,Multicountry SSA/Africa-wide,D6
+S054,Multicountry SSA,Multicountry SSA/Africa-wide,D6
+S055,Africa,Multicountry SSA/Africa-wide,"D5, D6"
+S056,"Resource-poor settings, Africa relevance",Multicountry SSA/Africa-wide,D6
+S057,"Ghana, Martinique, United States",West Africa,D6
+S058,Nigeria,West Africa,D6
+S059,Multicountry Africa,Multicountry SSA/Africa-wide,"D4, D6"
+S060,Africa,Multicountry SSA/Africa-wide,"D5, D6"
+S061,"Global, strong SSA relevance",Global/foundational SSA-relevant,D5
+S062,Africa,Multicountry SSA/Africa-wide,"D1, D5"
+S063,Global theoretical relevance,Global/foundational SSA-relevant,D7
+S064,Global theoretical relevance,Global/foundational SSA-relevant,D7
+S065,Global methodological relevance,Global/foundational SSA-relevant,D7
+S066,Global methodological relevance,Global/foundational SSA-relevant,D7
+S067,Global theoretical relevance,Global/foundational SSA-relevant,D7
+S068,Global theoretical relevance,Global/foundational SSA-relevant,D7

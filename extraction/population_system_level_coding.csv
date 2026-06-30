@@ -1,0 +1,69 @@
+study_id,primary_population_system_level,population_data_source_or_focus,main_concept_addressed,domain_codes
+S001,Population genetics and red-cell biology,Human populations in malaria-endemic settings,Sickle cell trait and malaria protection,D1
+S002,Population genetics and red-cell biology,HbS distribution and malaria-endemic populations,HbS distribution and malaria selection,"D1, D2"
+S003,Population genetics and red-cell biology,Children in a malaria-endemic setting,HbAS protection against severe malaria and mortality,D1
+S004,Population genetics and red-cell biology,Children followed in a malaria-endemic area,HbAS protection against severe P. falciparum malaria,D1
+S005,Population genetics and red-cell biology,"Children with HbAS, alpha-thalassaemia, and co-inheritance",Epistasis among malaria-protective red cell polymorphisms,D1
+S006,Population genetics and red-cell biology,Haemoglobin variants and malaria outcomes,Haemoglobinopathy effects on malaria susceptibility and severity,D1
+S007,Population genetics and red-cell biology,HbAS and malaria pathophysiology,Mechanisms of HbAS-mediated malaria protection,D1
+S008,"Population burden, geography, and surveillance",HbS allele frequency and pre-intervention malaria endemicity,Geographic confirmation of malaria hypothesis,"D1, D2"
+S009,"Population burden, geography, and surveillance",Neonatal HbS frequency and estimated HbAS/HbSS births,Spatial distribution of HbS and estimated SCA births,D2
+S010,"Population burden, geography, and surveillance",Children under five with SCA,Projected SCA burden and child survival implications,"D2, D5"
+S011,Population genetics and red-cell biology,Population with HbC and malaria outcomes,HbC protection against clinical malaria,D1
+S012,Population genetics and red-cell biology,Children with severe malaria and haemoglobin variants,"HbC, HbAS, and severe malaria risk",D1
+S013,Population genetics and red-cell biology,Children with alpha-thalassaemia and malaria outcomes,Alpha-thalassaemia and severe malaria protection,D1
+S014,Population genetics and red-cell biology,Children with alpha-thalassaemia and severe malaria outcomes,Alpha-thalassaemia and severe malaria protection,D1
+S015,Population genetics and red-cell biology,Populations with G6PD variants,G6PD deficiency and malaria protection,D1
+S016,Population genetics and red-cell biology,G6PD deficiency and malaria outcomes,G6PD deficiency and malaria risk or severity,D1
+S017,Population genetics and red-cell biology,Children with severe malaria and ABO blood group,"ABO blood group, rosetting, and severe malaria",D1
+S018,Population genetics and red-cell biology,Children with severe malaria,ABO genetic variation and severe malaria risk,D1
+S019,Population genetics and red-cell biology,Dantu blood group variant and malaria susceptibility,Red cell membrane tension and reduced parasite invasion,D1
+S020,Population genetics and red-cell biology,Severe malaria cases and controls,"Malaria resistance loci, including haemoglobin and red cell traits",D1
+S021,Population genetics and red-cell biology,Human genetic variation and infection,Genetic adaptation to malaria and haemoglobinopathies,D1
+S022,"Population burden, geography, and surveillance","Malaria prevalence, incidence, and intervention coverage",Spatial and temporal heterogeneity of malaria burden,D2
+S023,"Population burden, geography, and surveillance",P. falciparum parasite prevalence,Subnational malaria endemicity,D2
+S024,"Population burden, geography, and surveillance","Malaria prevalence, incidence, and mortality",Contemporary malaria burden geography,D2
+S025,"Population burden, geography, and surveillance",Routine malaria data and health facilities,Routine malaria data and spatial burden estimation,"D2, D4"
+S026,"Population burden, geography, and surveillance","Facility malaria data, care seeking, and catchments",Malaria burden from routine health-system data,"D2, D4"
+S027,"Population burden, geography, and surveillance",Infants and young children tested for HbS/SCD,Sickle cell trait and SCD prevalence with regional variation,"D2, D4, D6"
+S028,"Population burden, geography, and surveillance",Childhood SCD mortality,Under-recognition and early mortality,"D4, D5"
+S029,"Population burden, geography, and surveillance",SCD prevalence and mortality,Cause-specific versus total SCD-attributable mortality,"D4, D5"
+S030,SCD clinical care populations,SCD pathobiology and clinical complications,"Haemolysis, vaso-occlusion, anaemia, and organ damage","D3, D5"
+S031,Hospitalised children and severe anaemia,Malaria and anaemia mechanisms,Malaria-related anaemia pathophysiology,D3
+S032,Hospitalised children and severe anaemia,Children admitted with severe malaria,Severe malaria clinical phenotypes,D3
+S033,Hospitalised children and severe anaemia,Children with severe anaemia,Timing of transfusion,"D3, D5"
+S034,Hospitalised children and severe anaemia,Children with severe anaemia,Transfusion volume strategies,"D3, D5"
+S035,Hospitalised children and severe anaemia,Children admitted with severe anaemia,"Previously unknown SCA, malaria biomarkers by genotype","D3, D4"
+S036,Hospitalised children and severe anaemia,Children with SCA and controls,Malaria parasitaemia and SCA,D3
+S037,Hospitalised children and severe anaemia,Children with and without SCD,"Malaria prevalence, parasite density, and outcomes among SCD patients",D3
+S038,Hospitalised children and severe anaemia,Paediatric admissions,Malaria and moderate-to-severe anaemia,D3
+S039,SCD clinical care populations,Patients with SCA,Mortality and survival,D5
+S040,Hospitalised children and severe anaemia,People with SCD,Very severe anaemia and adverse outcomes,"D3, D5"
+S041,SCD clinical care populations,Young children with SCA,Penicillin prophylaxis and pneumococcal septicemia,D5
+S042,SCD clinical care populations,Children and adolescents with SCD,Survival after newborn screening and comprehensive care,D5
+S043,SCD clinical care populations,SCD prevention and care,"Diagnosis, vaccination, hydroxyurea, transfusion, comprehensive care","D5, D6"
+S044,SCD clinical care populations,Children with SCA,"Hydroxyurea feasibility, safety, and clinical benefit","D5, D6"
+S045,SCD clinical care populations,Children with SCA,Hydroxyurea safety in malaria-endemic setting,"D5, D6"
+S046,SCD clinical care populations,Children with SCA,Hydroxyurea fixed-dose versus dose escalation,"D5, D6"
+S047,Newborns and infants,"31,204 newborns",Neonatal screening and SCA prevalence,"D4, D6"
+S048,Newborns and infants,Newborns and families in Cotonou,"Screening, enrolment, and follow-up","D4, D5, D6"
+S049,Newborns and infants,Newborns in Nigerian hospital,SCD screening feasibility and prevalence,"D4, D6"
+S050,Newborns and infants,"Mothers, families, newborn screening context",Acceptability of newborn screening,D6
+S051,Newborns and infants,Newborn screening programme,"Screening, result return, tracking, and clinic enrolment","D4, D6"
+S052,"Facilities, programmes, and health systems",Newborn screening initiatives,Screening feasibility and linkage-to-care barriers,"D5, D6"
+S053,"Facilities, programmes, and health systems",SCD newborn screening,Early diagnosis and implementation priorities,D6
+S054,"Facilities, programmes, and health systems",Newborn screening consortium,"Screening, standardised care, and mortality ascertainment",D6
+S055,"Facilities, programmes, and health systems",Newborn screening initiatives,"Policy, process, barriers, enrolment, and linkage","D5, D6"
+S056,"Facilities, programmes, and health systems",Newborn screening sustainability,"Policy, financing, health-system and implementation barriers",D6
+S057,"Facilities, programmes, and health systems","Children and adults in low-, middle-, and high-resource settings",HemoTypeSC point-of-care diagnosis,D6
+S058,"Facilities, programmes, and health systems",SCD point-of-care testing,HemoTypeSC implementation in low-resource settings,D6
+S059,"Facilities, programmes, and health systems","SCD research, registry, and implementation infrastructure",Multicountry SCD data systems and research capacity,"D4, D6"
+S060,"Facilities, programmes, and health systems",SCD burden and care in Africa,"Diagnosis, comprehensive care, and research needs","D5, D6"
+S061,SCD clinical care populations,SCD epidemiology and management,Global burden and management of SCD,D5
+S062,"Facilities, programmes, and health systems","SCD, genomics, and African health systems","Genomics, burden, diagnosis, and care gaps","D1, D5"
+S063,Theory and conceptual systems,Syndemic theory,"Disease clustering, interaction, and biosocial context",D7
+S064,Theory and conceptual systems,Syndemic theory,Biosocial and structural framing of syndemics,D7
+S065,Theory and conceptual systems,Syndemic measurement,Limits of co-occurrence-only syndemic claims,D7
+S066,Theory and conceptual systems,Syndemic theory and evidence,Need for causal and analytic specificity,D7
+S067,Theory and conceptual systems,Syndemic theory in global health,Multilevel interaction and structural context,D7
+S068,Theory and conceptual systems,Syndemic methods and application,Application and limits of syndemic reasoning,D7
