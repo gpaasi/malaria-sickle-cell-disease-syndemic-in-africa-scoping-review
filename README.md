@@ -1,6 +1,8 @@
 # Reframing the Malaria and Sickle Cell Disease Relationship in Sub-Saharan Africa as a Bounded Syndemic: A Scoping Review and Evidence Gap Map
 
 [![OSF registration](https://img.shields.io/badge/OSF%20registration-10.17605%2FOSF.IO%2F6TVSB-blue)](https://doi.org/10.17605/OSF.IO/6TVSB)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21075274.svg)](https://doi.org/10.5281/zenodo.21075274)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-black?logo=github)](https://github.com/gpaasi/malaria-sickle-cell-disease-syndemic-in-africa-scoping-review)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Review type](https://img.shields.io/badge/review-scoping%20review-green)
 ![Evidence map](https://img.shields.io/badge/output-evidence%20gap%20map-orange)
